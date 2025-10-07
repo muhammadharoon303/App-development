@@ -1,3 +1,5 @@
+import 'dart:math';
+
 void main() {
   print('Hello, Dart!');
 
@@ -6,5 +8,6 @@ void main() {
   var last_name = "khan";
   var full = name + last_name;
   print("this is our first dart program");
+  print("HELLO WORLD");
   print('The full name is  $name and $last_name is $full');
 }
